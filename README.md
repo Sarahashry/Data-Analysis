@@ -26,6 +26,3 @@ The dashboard explores over **5,000 transactions** and visualizes key metrics su
 ## Screenshot
 
 <img width="1112" height="801" alt="digital_dashboard " src="https://github.com/user-attachments/assets/9e669538-a552-4128-805e-32dd624c2b0f" />
-
-
-sales channels in top-performing cities).
